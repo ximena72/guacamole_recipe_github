@@ -1,3 +1,3 @@
 # Guacamole Recipe
-* List of ingredients
-* Instructions for preparing guacamole
+* [List of ingredients] (ingredients.txt)
+* [Instructions for preparing guacamole] (instructions.txt)
