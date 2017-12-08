@@ -1,5 +1,5 @@
-Avocado
-onion
-salt
-lemon
-pepper
+* Avocado
+* onion
+* salt
+* lemon
+* pepper
